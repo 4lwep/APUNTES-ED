@@ -13,7 +13,7 @@ En este tema realizaremos las siguientes actividades
 
 |  Editar código fuente  |  Compilar el código fuente  |  Ejecutar el código
 |------------------------|-----------------------------|----------------------
-|   - Elegimos editor    |  - Elegimos compilador      |
-|   - Abrimos editor     |  - Le pasamos código fuente |
+|   - Elegimos editor    |  - Elegimos compilador      |  - Buscamos el código ejecutable
+|   - Abrimos editor     |  - Le pasamos código fuente |  - Ejecutamos el código
 |   - Escribimos código  |  - Ejecutamos compilador    |
 |   - Guardamos          |  - Le pasamos código fuente |
