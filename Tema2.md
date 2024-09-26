@@ -11,4 +11,9 @@ En este tema realizaremos las siguientes actividades
 
 ## Pasos del proceso de creación de aplicación
 
-Editar código fuente  |  Compilar | Ejecutar el código
+|  Editar código fuente  |  Compilar el código fuente  |  Ejecutar el código
+|------------------------|-----------------------------|----------------------
+|   - Elegimos editor    |  - Elegimos compilador      |
+|   - Abrimos editor     |  - Le pasamos código fuente |
+|   - Escribimos código  |  - Ejecutamos compilador    |
+|   - Guardamos          |  - Le pasamos código fuente |
