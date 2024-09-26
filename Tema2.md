@@ -17,3 +17,13 @@ En este tema realizaremos las siguientes actividades
 |   - Abrimos editor     |  - Le pasamos código fuente |  - Ejecutamos el código
 |   - Escribimos código  |  - Ejecutamos compilador    |
 |   - Guardamos          |  - Le pasamos código fuente |
+
+---
+
+Tarea por realizar:
+
+- [x] ~Editar~
+
+- [ ] Compilar
+
+- [ ] Ejecutar
